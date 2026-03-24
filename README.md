@@ -32,8 +32,6 @@ Developed professional profiles on platforms like GitHub, LinkedIn, and Kaggle t
 - Completed a beginner-level coding challenge on HackerRank  
 - Created a Google Form quiz to test digital literacy awareness  
 
-📎 **Google Form Link:** [Paste your link here]
-
 ---
 
 ### 🔹 Task 4 – Email Etiquette
